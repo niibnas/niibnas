@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am Nibnas and i am currently working as a security analyst. 
+- I am currently working on strengthening my basics and learning new concepts. I am very much into the defense side; however, I have my interests in learning pentesting as well!
+- I would love to learn about malware analysis and reverse enginerring, learning new tools and also trying my luck at coding.
+- I would love to get help on everything, there is never an end to what one can learn.
